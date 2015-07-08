@@ -1,6 +1,7 @@
 # sql-to-json
 ```
-This is a php program which connects to a mysql database and produce json encoded data from the database based on the query provided in time of calling the page
+This is a php program which connects to a mysql database and produce json 
+encoded data from the database based on the query provided in time of calling the page
 ```
 
 
