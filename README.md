@@ -49,4 +49,7 @@ http://localhost/fetch.php?table=city&limit=10
 
 ### The output
 
-Above call will return "city" table's first 10 data from the provided world-db as JSON data			
+Above call will return "city" table's first 10 data from the provided world-db as JSON data	
+
+### error logging
+The program will print the query and stop if anything wrong in the query
